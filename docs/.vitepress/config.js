@@ -2,6 +2,8 @@ export default {
   lang: "zh-CN",
   title: "前端开发教程", //站点标题
   description: "前端开发教程", //mate标签description，多用于搜索引擎抓取摘要
+  base: "/course/", //部署站点的基础路径
+  outDir: "../course", //输出目录
   themeConfig: {
     siteTitle: "前端开发教程",
     logo: "/logo.png",
