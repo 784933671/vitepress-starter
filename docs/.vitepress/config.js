@@ -10,7 +10,8 @@ export default {
     nav: [
       { text: "主页", link: "/" },
       { text: "vue相关", link: "/articles/组件库环境搭建" },
-      { text: "环境配置", link: "/circumstances/index" },
+      { text: "环境配置", link: "/circumstances/nvm" },
+      { text: "公司", link: "/company/svn" },
       { text: "gitee", link: "https://gitee.com/geeksdidi" },
     ],
     sidebar: {
@@ -45,8 +46,29 @@ export default {
           collapsed: true,
           items: [
             {
-              text: "npm包发布",
-              link: "/circumstances/index",
+              text: "nvm实现多版本node自由切换",
+              link: "/circumstances/nvm",
+            },
+            {
+              text: "yarn npm 设置淘宝镜像",
+              link: "/circumstances/yarn npm 设置淘宝镜像",
+            },
+            {
+              text: "git常用命令",
+              link: "/circumstances/git常用命令",
+            },
+          ],
+        },
+      ],
+      "/company/": [
+        {
+          text: "svn管理",
+          collapsible: true,
+          collapsed: true,
+          items: [
+            {
+              text: "svn地址",
+              link: "/company/svn",
             },
           ],
         },

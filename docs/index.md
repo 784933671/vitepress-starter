@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: 月亮要抽烟的前端笔记
-  text: 随便写点啥.
+  text: 前端各种教程
   tagline: 帅气又迷人的月亮要抽烟
   image:
     src: /logo.png
