@@ -39,6 +39,25 @@ export default {
             },
           ],
         },
+        {
+          text: "其他",
+          collapsible: true,
+          collapsed: true,
+          items: [
+            {
+              text: "消除异步函数的传染性",
+              link: "/articles/消除异步函数的传染性",
+            },
+            {
+              text: "监听鼠标移入方向",
+              link: "/articles/监听鼠标移入方向.md",
+            },
+            {
+              text: "永远走不完的进度条",
+              link: "/articles/永远走不完的进度条.md",
+            },
+          ],
+        },
       ],
       "/circumstances/": [
         {
