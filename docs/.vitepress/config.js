@@ -3,7 +3,7 @@ export default {
   title: "前端开发教程", //站点标题
   description: "前端开发教程", //mate标签description，多用于搜索引擎抓取摘要
   base: "/", //部署站点的基础路径
-  outDir: "../dist", //输出目录
+  outDir: "dist", //输出目录
   lastUpdated: true, //最后更新时间
   themeConfig: {
     siteTitle: "前端开发教程",

@@ -1,65 +1,55 @@
 # 公司本部
 ## 通服数能小程序SVN:
-::: tip 地址
-https://10.206.20.15:8888/DADX/CCSIOT/Code/Trunk/ccsiot-base/tf-digital-capability
+::: tip https://10.206.20.15:8888/DADX/CCSIOT/Code/Trunk/ccsiot-base/tf-digital-capability
+
 :::
 
 ## 供需广场小程序SVN:
-::: tip 地址
-https://10.206.20.15:8888/DADX/TFFWY/Code/trunk/miniapp/square-app
+::: tip https://10.206.20.15:8888/DADX/TFFWY/Code/trunk/miniapp/square-app
+
 :::
 
 ## 能力看板小程序SVN:
-::: tip 地址
-https://10.206.20.15:8888/DADX/TFFWY/Code/trunk/miniapp/ability-panel
+::: tip https://10.206.20.15:8888/DADX/TFFWY/Code/trunk/miniapp/ability-panel
 :::
 
+
+
 ## 慧协作小程序SVN:
-::: tip 地址
-https://10.206.20.15:8888/DADX/wlwxtfw/Code/branches/rwxz/uni-app-product
+::: tip https://10.206.20.15:8888/DADX/wlwxtfw/Code/branches/rwxz/uni-app-product
+
 :::
 
 ## SP SVN:
-::: tip 地址
-https://10.206.20.15:8888/DADX/CCSIOT/Code/Trunk/ccsiot-base/ccsiot-sp-web
+::: tip https://10.206.20.15:8888/DADX/CCSIOT/Code/Trunk/ccsiot-base/ccsiot-sp-web
+
 :::
 
 ## 慧协作H5 SVN:
-::: tip 地址
-https://10.206.20.15:8888/DADX/wlwxtfw/Code/branches/rwxz/mobile-ui
+::: tip https://10.206.20.15:8888/DADX/wlwxtfw/Code/branches/rwxz/mobile-ui
+
 :::
 
 ## 服务云(WEB)SVN:
-::: tip 地址
-https://10.206.20.15:8888/DADX/CCSIOT/Code/Trunk/serviceCloud-web
+::: tip https://10.206.20.15:8888/DADX/CCSIOT/Code/Trunk/serviceCloud-web
+
 :::
 
 ## 维护云小程序：
-::: tip 地址
-https://10.206.20.15:8888/DADX/TFFWY/Code/trunk/miniapp/uniC
+::: tip https://10.206.20.15:8888/DADX/TFFWY/Code/trunk/miniapp/uniC
+
 :::
 
 ## 五合一小程序:
 
-::: tip 地址
-https://10.206.20.15:8888/DADX/CCSIOT/Code/Trunk/ccsiot-base/maintenanceCloudApp
+::: tip https://10.206.20.15:8888/DADX/CCSIOT/Code/Trunk/ccsiot-base/maintenanceCloudApp
+
 :::
 
 ## 私有依赖
-::: tip 地址
-npm --registry http://10.206.20.119:4873/ i
+::: tip npm --registry http://10.206.20.119:4873/ i
+
 :::
-
-
-## vpn地址
-::: tip 地址
-https://218.6.169.104
-:::
-
-
-
-# 邮电校
-
 
 
 ## SVN账号密码
