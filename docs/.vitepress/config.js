@@ -105,16 +105,16 @@ export default {
           items: [
             {
               text: "svn地址",
-              link: "/company/svn",
+              link: "/company/svn"
             },
             {
               text: "vpn相关",
-              link: "/company/vpn",
+              link: "/company/vpn"
             },
             {
               text: "bladex框架",
-              link: "/company/bladex/index",
-            }
+              link: "/company/bladex/bladex"
+            },
           ]
         },
       ],
