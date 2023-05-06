@@ -7,6 +7,7 @@ FOR /d /r . %d in (node_modules,.history) DO @IF EXIST "%d" echo %d"
 ```
 
 ## 删除目录中所有找到的node_modules和.history文件夹
+
 >>警告！这个步骤会删除所有名字为node_modules 的文件夹
 ``` cmd
 FOR /d /r . %d in (node_modules,.history) DO @IF EXIST "%d" rmdir /s /q "%d"

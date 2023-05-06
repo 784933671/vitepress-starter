@@ -18,7 +18,8 @@ export default {
       "/articles/": [
         {
           text: "组件库源码实现",
-          collapsible: true,
+          collapsible: true,//是否可以折叠
+          collapsed: false,//默认展开
           items: [
             {
               text: "组件库环境搭建",
@@ -32,8 +33,8 @@ export default {
         },
         {
           text: "vue教程",
-          collapsible: true,
-          collapsed: true,
+          collapsible: true,//是否可以折叠
+          collapsed: false,//默认展开
           items: [
             {
               text: "pina和vuex",
@@ -43,8 +44,8 @@ export default {
         },
         {
           text: "npm管理",
-          collapsible: true,
-          collapsed: true,
+          collapsible: true,//是否可以折叠
+          collapsed: false,//默认展开
           items: [
             {
               text: "nvm实现多版本node自由切换",
@@ -58,8 +59,8 @@ export default {
         },
         {
           text: "git",
-          collapsible: true,
-          collapsed: true,
+          collapsible: true,//是否可以折叠
+          collapsed: false,//默认展开
           items: [
             {
               text: "git常用命令",
@@ -69,8 +70,8 @@ export default {
         },
         {
           text: "脚本",
-          collapsible: true,
-          collapsed: true,
+          collapsible: true,//是否可以折叠
+          collapsed: false,//默认展开
           items: [
             {
               text: "windows删除文件夹下所有文件",
@@ -80,8 +81,8 @@ export default {
         },
         {
           text: "其他",
-          collapsible: true,
-          collapsed: true,
+          collapsible: true,//是否可以折叠
+          collapsed: false,//默认展开
           items: [
             {
               text: "消除异步函数的传染性",
