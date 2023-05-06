@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="081f8da9-5063-40dd-a219-68d31cff909e" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/articles/command/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/company/vpn.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/company/bladex/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vitepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/circumstances/git常用命令.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/articles/git/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/circumstances/nvm.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/articles/circumstances/nvm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/circumstances/yarn npm 设置淘宝镜像.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/articles/circumstances/yarn_npm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/company/svn.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/company/svn.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +43,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\vitepress\vitepress-starter\docs\company" />
       <recent name="D:\vitepress\vitepress-starter\docs\articles" />
     </key>
   </component>
@@ -58,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683335603467</updated>
-      <workItem from="1683335606567" duration="4659000" />
+      <workItem from="1683335606567" duration="5973000" />
     </task>
     <servers />
   </component>

@@ -102,8 +102,6 @@ export default {
       "/company/": [
         {
           text: "创立公司",
-          collapsible: true,
-          collapsed: true,
           items: [
             {
               text: "svn地址",
@@ -113,7 +111,11 @@ export default {
               text: "vpn相关",
               link: "/company/vpn",
             },
-          ],
+            {
+              text: "bladex框架",
+              link: "/company/bladex/index",
+            }
+          ]
         },
       ],
     },
