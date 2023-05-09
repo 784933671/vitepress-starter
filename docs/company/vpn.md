@@ -1,6 +1,13 @@
-# 公司本部
+---
+title: CL公司
+editLink: true
+---
 
-## vpn地址
+# {{ $frontmatter.title }}
+
+公司vpn地址
+
+
 ::: tip https://218.6.169.104
 账号：18048885514
 

@@ -1,11 +1,24 @@
-export default {
+import { defineConfig } from 'vitepress'
+export default defineConfig({
   lang: "zh-CN",
   title: "前端开发教程", //站点标题
   description: "前端开发教程", //mate标签description，多用于搜索引擎抓取摘要
   base: "/", //部署站点的基础路径
   outDir: "dist", //输出目录
   lastUpdated: true, //最后更新时间
+  cacheDir: './.vitepress/.vite', //缓存目录
+  markdown: {
+    lineNumbers: true
+  },
   themeConfig: {
+    docFooter: {
+      prev: '上一页',
+      next: '下一页',
+    },
+    search: {
+      provider: 'local'
+    },
+    lastUpdatedText: '最后更新时间',
     siteTitle: "前端开发教程",
     logo: "/logo.png",
     nav: [
@@ -121,4 +134,4 @@ export default {
       ],
     },
   },
-};
+});

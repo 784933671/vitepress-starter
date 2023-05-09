@@ -27,5 +27,8 @@ features:
   - icon: 🛠️
     title: 这是一个修理图标
     details: cocococo
+prev:
+  text: 'Markdown'
+  link: '/guide/markdown'
 ---
 

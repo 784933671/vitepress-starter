@@ -1,6 +1,10 @@
-# bladex框架
+---
+title: bladex框架
+editLink: true
+---
 
-## bladex框架地址
+# {{ $frontmatter.title }}
+
 ::: tip 地址
 https://git.bladex.vip/blade
 
