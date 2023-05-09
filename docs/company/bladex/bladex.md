@@ -2,7 +2,7 @@
 
 ## bladex框架地址
 ::: tip 地址
-https://10.206.20.15:8888/DADX/TFFWY/Code/trunk/miniapp/ability-panel
+https://git.bladex.vip/blade
 
 账号：1158743873
 
