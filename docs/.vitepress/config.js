@@ -51,7 +51,11 @@ export default defineConfig({
           items: [
             {
               text: "pina和vuex",
-              link: "/articles/pina和vuex",
+              link: "/articles/vue/pina和vuex",
+            },
+            {
+              text: "自定义v-model",
+              link: "/articles/vue/v-model",
             },
           ],
         },
