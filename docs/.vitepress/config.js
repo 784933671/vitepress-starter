@@ -133,6 +133,10 @@ export default defineConfig({
               text: "bladex框架",
               link: "/company/bladex/bladex"
             },
+            {
+              text: "蓝湖",
+              link: "/company/lanhu"
+            },
           ]
         },
       ],
