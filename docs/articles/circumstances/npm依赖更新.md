@@ -15,9 +15,7 @@ ncu -u
 **检测到需要更新的包后，空格键可以选择或取消单个需要更新的包，A键可以切换所有需要更新的依赖包，最后回车即可更新**
 
 ``` cmd
-
 yarn upgrade-interactive --latest
-
 ```
 
 ## 更新单个依赖包
@@ -25,11 +23,7 @@ yarn upgrade-interactive --latest
 
 ``` cmd
 npm更新方式
-
 npm i --save vue@latest
-
 yarn更新方式
-
 yarn add vue@latest
-
 ```
