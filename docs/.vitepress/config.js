@@ -71,7 +71,11 @@ export default defineConfig({
             {
               text: "yarn npm 设置淘宝镜像",
               link: "/articles/circumstances/yarn_npm",
-            }
+            },
+            {
+              text: "npm依赖更新",
+              link: "/articles/circumstances/npm依赖更新",
+            },
           ],
         },
         {
