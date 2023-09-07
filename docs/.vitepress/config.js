@@ -24,7 +24,6 @@ export default defineConfig({
     nav: [
       { text: "主页", link: "/" },
       { text: "前端", link: "/articles/组件库环境搭建" },
-      { text: "公司", link: "/company/svn" },
       { text: "gitee", link: "https://gitee.com/t784933671" },
     ],
     sidebar: {
@@ -118,30 +117,6 @@ export default defineConfig({
               link: "/articles/永远走不完的进度条.md",
             },
           ],
-        },
-      ],
-
-      "/company/": [
-        {
-          text: "创立公司",
-          items: [
-            {
-              text: "svn地址",
-              link: "/company/svn"
-            },
-            {
-              text: "vpn相关",
-              link: "/company/vpn"
-            },
-            {
-              text: "bladex框架",
-              link: "/company/bladex/bladex"
-            },
-            {
-              text: "蓝湖",
-              link: "/company/lanhu"
-            },
-          ]
         },
       ],
     },

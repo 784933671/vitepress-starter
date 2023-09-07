@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: 月亮要抽烟的前端笔记
-  text: 前端各种教程
-  tagline: 帅气又迷人的月亮要抽烟
+  name: T先生的前端笔记
+  text: 前端开发记录
+  tagline: T先生
   image:
     src: /logo.png
     alt: Kitty
